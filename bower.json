@@ -1,0 +1,16 @@
+{
+  "name": "helloworld",
+  "version": "0.0.0",
+  "homepage": "https://github.com/fhudo/HelloWorld",
+  "authors": [
+    "mark <mark.collins@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
